@@ -21,7 +21,7 @@
 title: Joe's Blog
 email: eyzuk3w62bkabww@163.com
 description: Thoughts and notes on Software Engineering, Electronics, and Blockchain. 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  DJShabsifhe
