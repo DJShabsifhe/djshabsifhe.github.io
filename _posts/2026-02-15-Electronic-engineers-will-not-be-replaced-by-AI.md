@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Electronic engineers will not be replaced by AI"
-date:   2026-2-15 17:00:00 +0800
+date:   2026-02-15 17:00:00 +0800
 categories: jekyll update
 ---
 
